@@ -5,17 +5,16 @@
 
 <br>
 
-I'm an Applied Mathematics student at York University focused on data science. I like projects that start with messy, real-world data and end with something people can use: a model with honest error bars, a live app, or a dashboard.
+I'm an Applied Mathematics graduate from York University focused on data science. I like projects that start with messy, real-world data and end with something people can use: a model with honest error bars, a live app, or a dashboard.
 
 - **What I do:** data cleaning, feature engineering, machine learning, SQL analysis, and turning results into apps and dashboards
 - **How I work:** start from a simple baseline, compare models fairly, and explain where a model is unreliable, not just where it's accurate
 - **Next up:** per-car explanations (SHAP) and a Streamlit app for my used car deal detector
 - **Looking for:** data science and analytics roles
 
-<!--
-  Contact badges: replace the links below and delete these comment lines to show them.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Mancini-0A66C2?style=flat-square)](https://www.linkedin.com/in/michael-mancini-b655833b6/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
+<!-- To add an email badge, replace YOUR-EMAIL and move this line above the comment:
 [![Email](https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 -->
 
